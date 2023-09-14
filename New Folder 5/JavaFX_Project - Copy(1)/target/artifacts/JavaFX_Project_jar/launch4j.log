@@ -1,0 +1,1000 @@
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path C:\javafx-sdk-20.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.fxml -jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe"
+Args length:	204/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path C:\javafx-sdk-20.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.fxml -jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe"
+Args length:	204/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path C:\javafx-sdk-20.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.fxml -jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe"
+Args length:	204/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path C:\javafx-sdk-20.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.fxml -jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe"
+Args length:	204/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	118/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe"
+Args length:	119/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe"
+Args length:	119/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe"
+Args length:	119/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe"
+Args length:	119/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project3.exe"
+Args length:	119/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path C:\javafx-sdk-20.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.fxml -jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe"
+Args length:	204/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path C:\javafx-sdk-20.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.fxml -jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe"
+Args length:	204/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path C:\javafx-sdk-20.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.fxml -jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\exe.exe"
+Args length:	204/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\assem\.jdks\openjdk-20.0.1
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+JRE paths:	C:\Users\assem\.jdks\openjdk-20.0.1;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\assem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\assem\AppData\Local\GitHubDesktop\bin;C:\Users\assem\.jdks\openjdk-20.0.1\bin
+Check launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\assem\.jdks\openjdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path C:\javafx-sdk-20.0.2\lib --add-modules=javafx.controls,javafx.graphics,javafx.fxml -jar "C:\SWE3313Proj-main\New folder4\JavaFX_Project - Copy(1)\target\artifacts\JavaFX_Project_jar\JavaFX_Project.exe"
+Args length:	215/32768 chars
+Exit code:	0
