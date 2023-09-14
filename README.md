@@ -11,4 +11,7 @@ Be sure to remove the " - copy", when testing the code.
 Quick update on the following day, multiple maven class files can be loaded within JavaFX with
 jar file added to project structure global library, and addition to module-info.java.
 
-// stable framework build of JavaFX_Project/Maven, in jar format, can be found in the artifacts folder of: New folder4.
+// Stable framework build of JavaFX_Project/Maven, in jar format, can be found in the artifacts folder of: New folder4.
+
+9/14/2023
+Stable framework build 2.0 of Maven/JavaFX_Project, in jar(requires CLASSPATH -VM Options) and exe format, located in target folder.
