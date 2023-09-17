@@ -14,5 +14,5 @@ jar file added to project structure global library, and addition to module-info.
 // Stable build framework of JavaFX_Project/Maven, in jar format, can be found in the artifacts folder of: New folder4.
 
 9/14/2023
-Stable build framework 2.0 of Maven/JavaFX_Project, in jar(requires CLASSPATH -VM Options) and exe format, located in target folder.
+Stable build framework 2.0 of Maven/JavaFX_Project, in jar (requires CLASSPATH -VM Options) and exe format, located in target folder.
 APIs and Scenebuilder implemented.
