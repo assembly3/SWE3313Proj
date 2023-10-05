@@ -17,6 +17,6 @@ jar file added to project structure global library, and addition to module-info.
 Stable build framework 2.0 of Maven/JavaFX_Project, in jar (requires CLASSPATH -VM Options) and exe format, located in target folder.
 APIs and Scenebuilder implemented.
 
-// Selected panels are updated in the Java_Project_3 .jar file, added to the repository directory.
+// Selected panels are updated in the Java_Project_3.jar file, added to the repository directory.
 
-// Command line interface of application login authentication implmented, with the use of C# class file, containing methods pertaining to requirement specifications.
+// Command line interface of application login authentication implemented, with the use of C# class file, containing methods pertaining to requirement specifications.
