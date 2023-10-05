@@ -18,3 +18,5 @@ Stable build framework 2.0 of Maven/JavaFX_Project, in jar (requires CLASSPATH -
 APIs and Scenebuilder implemented.
 
 // Selected panels are updated in the Java_Project_3 .jar file, added to the repository directory.
+
+// Command line interface of application login authentication implmented, with the use of C# class file, containing methods pertaining to requirement specifications.
