@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="800.0" prefWidth="1500.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafx_project.CurrentConditionMain">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <children>
+       <MenuButton fx:id="menuButtonTwo" mnemonicParsing="false" onAction="#onMenuButtonTwoClick" text="Select Destination City" translateX="-200.0" translateY="-200.0">
+        <items>
+            <MenuItem fx:id="menuItem21" mnemonicParsing="false" onAction="#onMenuLabel21Click" text="New York, New York" />
+            <MenuItem fx:id="menuItem22" mnemonicParsing="false" onAction="#onMenuLabel22Click" text="Santa Fe, New Mexico" />
+            <MenuItem fx:id="menuItem23" mnemonicParsing="false" onAction="#onMenuLabel22Click" text="Chicago, Illinois" />
+            <MenuItem fx:id="menuItem24" mnemonicParsing="false" onAction="#onMenuLabel24Click" text="Savannah, Georgia" />
+            <MenuItem fx:id="menuItem25" mnemonicParsing="false" onAction="#onMenuLabel25Click" text="New Orleans, Louisiana" />
+            <MenuItem fx:id="menuItem26" mnemonicParsing="false" onAction="#onMenuLabel26Click" text="Charleston, South Carolina" />
+            <MenuItem fx:id="menuItem27" mnemonicParsing="false" onAction="#onMenuLabel27Click" text="Portland, Oregon" />
+            <MenuItem fx:id="menuItem28" mnemonicParsing="false" onAction="#onMenuLabel28Click" text="London, Great Britain" />
+            <MenuItem fx:id="menuItem29" mnemonicParsing="false" onAction="#onMenuLabel29Click" text="Shanghai, China" />
+            <MenuItem fx:id="menuItem30" mnemonicParsing="false" onAction="#onMenuLabel30Click" text="Mumbai, India" />
+            <MenuItem fx:id="menuItem31" mnemonicParsing="false" onAction="#onMenuLabel31Click" text="Luxembourg, Luxembourg" />
+            <MenuItem fx:id="menuItem32" mnemonicParsing="false" onAction="#onMenuLabel32Click" text="Tokyo, Japan" />
+            <MenuItem fx:id="menuItem33" mnemonicParsing="false" onAction="#onMenuLabel33Click" text="Mexico City, Mexico" />
+            <MenuItem fx:id="menuItem34" mnemonicParsing="false" onAction="#onMenuLabel34Click" text="Cairo, Egypt" />
+            <MenuItem fx:id="menuItem35" mnemonicParsing="false" onAction="#onMenuLabel35Click" text="Zurich, Switzerland" />
+        </items>
+      </MenuButton>
+      <MenuButton fx:id="menuButton" mnemonicParsing="false" onAction="#onMenuButtonClick" text="Select Current City" translateX="-400.0" translateY="-245.0">
+
+       
+        <items>
+
+          <MenuItem fx:id="menuItem1" mnemonicParsing="false" onAction="#onMenuLabel1Click" text="New York, New York" />
+            <MenuItem fx:id="menuItem2" mnemonicParsing="false" onAction="#onMenuLabel2Click" text="Santa Fe, New Mexico" />
+            <MenuItem fx:id="menuItem3" mnemonicParsing="false" onAction="#onMenuLabel3Click" text="Chicago, Illinois" />
+            <MenuItem fx:id="menuItem4" mnemonicParsing="false" onAction="#onMenuLabel4Click" text="Savannah, Georgia" />
+            <MenuItem fx:id="menuItem5" mnemonicParsing="false" onAction="#onMenuLabel5Click" text="New Orleans, Louisiana" />
+            <MenuItem fx:id="menuItem6" mnemonicParsing="false" onAction="#onMenuLabel6Click" text="Charleston, South Carolina" />
+            <MenuItem fx:id="menuItem7" mnemonicParsing="false" onAction="#onMenuLabel7Click" text="Portland, Oregon" />
+            <MenuItem fx:id="menuItem8" mnemonicParsing="false" onAction="#onMenuLabel8Click" text="London, Great Britain" />
+            <MenuItem fx:id="menuItem9" mnemonicParsing="false" onAction="#onMenuLabel9Click" text="Shanghai, China" />
+            <MenuItem fx:id="menuItem10" mnemonicParsing="false" onAction="#onMenuLabel10Click" text="Mumbai, India" />
+            <MenuItem fx:id="menuItem11" mnemonicParsing="false" onAction="#onMenuLabel11Click" text="Luxembourg, Luxembourg" />
+            <MenuItem fx:id="menuItem12" mnemonicParsing="false" onAction="#onMenuLabel12Click" text="Tokyo, Japan" />
+            <MenuItem fx:id="menuItem13" mnemonicParsing="false" onAction="#onMenuLabel13Click" text="Mexico City, Mexico" />
+            <MenuItem fx:id="menuItem14" mnemonicParsing="false" onAction="#onMenuLabel14Click" text="Cairo, Egypt" />
+            <MenuItem fx:id="menuItem15" mnemonicParsing="false" onAction="#onMenuLabel15Click" text="Zurich, Switzerland" />
+        </items>
+      </MenuButton>
+      <TextField fx:id="textField" />
+      <TextArea fx:id="textArea" prefHeight="200.0" prefWidth="200.0" />
+      
+      
+      
+      
+   </children>
+
+
+
+</VBox>
