@@ -21,4 +21,4 @@ APIs and Scenebuilder implemented.
 
 // Command line interface of application login authentication implemented, with the use of C# class file, containing methods pertaining to requirement specifications.
 
-Testing of cases within JUnit completed, expected delays in the implementation of remaining API module tasks and threads.
+Testing of cases within JUnit completed, expected delays of thread implements and remaining API module tasks.
