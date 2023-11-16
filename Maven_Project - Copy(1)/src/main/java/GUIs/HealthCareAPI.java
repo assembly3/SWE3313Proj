@@ -102,8 +102,7 @@ public class HealthCareAPI {
 
     public static String getCoordinate() throws JSONException {
 
-        responseBody = geocodeLocNoState(HealthCareJFrame.getCityName(),
-                HealthCareJFrame.getCountryCode());
+        responseBody = geocodeLocNoState(HealthCareJFrame.getCityName(),HealthCareJFrame.getCountryCode());
 
         responseBody = responseBody.substring(1, responseBody.length() - 1);
 
@@ -121,7 +120,7 @@ public class HealthCareAPI {
 
         JSONObject jsonObjTwo = new JSONObject(responseBody);
 
-        System.out.println(responseBody);
+        //System.out.println(responseBody);
 
         String pollenStr = jsonObjTwo.toString();
 
@@ -145,18 +144,19 @@ public class HealthCareAPI {
 
     public static String getCoordinateTwo() throws JSONException {
 
-        responseBody = geocodeLocNoState(HealthCareJFrame.getCityName(),
-                HealthCareJFrame.getCountryCode());
+        responseBody = geocodeLocNoState(HealthCareJFrame.getCityName(), HealthCareJFrame.getCountryCode());
 
         responseBody = responseBody.substring(1, responseBody.length() - 1);
 
         JSONObject jsonObj = new JSONObject(responseBody);
 
-        String latitude = String.valueOf(jsonObj.getInt("lat"));
+        latitude = jsonObj.getDouble("lat");
 
-        String longitude = String.valueOf(jsonObj.getInt("lon"));
+        longitude = jsonObj.getDouble("lon");
 
-        return latitude + longitude;
+        //System.out.println(responseBody);
+
+        return latitude + String.valueOf(longitude);
 
     }
 

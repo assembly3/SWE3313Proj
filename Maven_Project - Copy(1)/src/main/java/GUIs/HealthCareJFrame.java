@@ -6,6 +6,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
 import java.util.EventListener;
 import java.util.Objects;
 
@@ -15,6 +17,9 @@ public class HealthCareJFrame implements ActionListener {
     public static Button buttonOne = new Button();
 
     public static Label label = new Label();
+
+    static DefaultListModel<String> l1 = getStringDefaultListModel();
+    static JList<String> list = new JList<>(l1);
 
     public static void main(String[] args) throws JSONException {
 
@@ -28,6 +33,7 @@ public class HealthCareJFrame implements ActionListener {
         textFieldThree.setBounds(250, 390, 150, 25);
         textFieldFour.setBounds(250, 420, 150, 25);
 
+
         frame.add(buttonOne);
 
         label.setText("Enter the city name, including underscores, or ZIP.");
@@ -38,9 +44,48 @@ public class HealthCareJFrame implements ActionListener {
 
         buttonOne.addActionListener(HealthCareJFrame);
 
-        DefaultListModel<String> l1 = getStringDefaultListModel();
-        JList<String> list = new JList<>(l1);
-        list.setBounds(100, 200, 75, 270);
+        list.setBounds(75, 200, 100, 270);
+
+        mb.add(menu);
+        menu.add(item1);
+        menu.add(item2);
+        menu.add(item3);
+        menu.add(item4);
+        menu.add(item5);
+        menu.add(item6);
+        menu.add(item7);
+        menu.add(item8);
+        menu.add(item9);
+        menu.add(item10);
+        menu.add(item11);
+        menu.add(item12);
+        menu.add(item13);
+        menu.add(item14);
+        menu.add(item15);
+
+        frame.setMenuBar(mb);
+
+        HealthCareJFrame healthCareFrame = new HealthCareJFrame();
+
+        item1.addActionListener(healthCareFrame);
+        item2.addActionListener(healthCareFrame);
+        item3.addActionListener(healthCareFrame);
+        item4.addActionListener(healthCareFrame);
+        item5.addActionListener(healthCareFrame);
+        item6.addActionListener(healthCareFrame);
+        item7.addActionListener(healthCareFrame);
+        item8.addActionListener(healthCareFrame);
+        item9.addActionListener(healthCareFrame);
+        item10.addActionListener(healthCareFrame);
+        item11.addActionListener(healthCareFrame);
+        item12.addActionListener(healthCareFrame);
+        item13.addActionListener(healthCareFrame);
+        item14.addActionListener(healthCareFrame);
+        item15.addActionListener(healthCareFrame);
+
+
+
+
 
         frame.add(textFieldOne);
         frame.add(textFieldTwo);
@@ -54,40 +99,65 @@ public class HealthCareJFrame implements ActionListener {
 
     }
 
+    static Menu menu = new Menu("Selected City: ");
 
-    private static DefaultListModel<String> getStringDefaultListModel() {
+    static MenuItem item1 = new MenuItem("New_York");
+    static MenuItem item2 = new MenuItem("Santa_Fe");
+    static MenuItem item3 = new MenuItem("Chicago");
+    static MenuItem item4 = new MenuItem("Savannah");
+
+    static MenuItem item5 = new MenuItem("New_Orleans");
+    static MenuItem item6 = new MenuItem("Charleston");
+    static MenuItem item7 = new MenuItem("Portland");
+    static MenuItem item8 = new MenuItem("London");
+    static MenuItem item9 = new MenuItem("Shanghai");
+    static MenuItem item10 = new MenuItem("Mumbai");
+    static MenuItem item11 = new MenuItem("Luxembourg");
+    static MenuItem item12 = new MenuItem("Tokyo");
+    static MenuItem item13 = new MenuItem("Mexico_City");
+    static MenuItem item14 = new MenuItem("Cairo");
+    static MenuItem item15 = new MenuItem("Zurich");
+
+    static String cityString = "";
+
+    static String cityName = "";
+
+    static MenuBar mb = new MenuBar();
+
+    public static DefaultListModel<String> getStringDefaultListModel() {
         DefaultListModel<String> l1 = new DefaultListModel<>();
-        l1.addElement("Item1");
-        l1.addElement("Item2");
-        l1.addElement("Item3");
-        l1.addElement("Item4");
-        l1.addElement("Item5");
-        l1.addElement("Item6");
-        l1.addElement("Item7");
-        l1.addElement("Item8");
-        l1.addElement("Item9");
-        l1.addElement("Item10");
-        l1.addElement("Item11");
-        l1.addElement("Item12");
-        l1.addElement("Item13");
-        l1.addElement("Item14");
-        l1.addElement("Item15");
+
+        l1.addElement("New_York");
+        l1.addElement("Santa_Fe");
+        l1.addElement("Chicago");
+        l1.addElement("Savannah");
+        l1.addElement("New_Orleans");
+        l1.addElement("Charleston");
+        l1.addElement("Portland");
+        l1.addElement("London");
+        l1.addElement("Shanghai");
+        l1.addElement("Mumbai");
+        l1.addElement("Luxembourg");
+        l1.addElement("Tokyo");
+        l1.addElement("Mexico_City");
+        l1.addElement("Cairo");
+        l1.addElement("Zurich");
         return l1;
+
     }
+
+
+
 
 
     public static TextField textFieldOne = new TextField();
     public static TextField textFieldTwo = new TextField();
     public static TextField textFieldThree = new TextField();
     public static TextField textFieldFour = new TextField();
-    public static String cityName = "";
+
     public static String stateCode = "";
     public static String countryCode = "US";
     public static Integer zipCode = 0;
-
-    public static String getCityName() {
-        return cityName;
-    }
 
     public static Integer getZipCode() {
         return zipCode;
@@ -97,25 +167,38 @@ public class HealthCareJFrame implements ActionListener {
         return countryCode;
     }
 
+    public static String getCityName()  {return cityName; }
+
+
+
+
     @Override
     public void actionPerformed(ActionEvent e) {
 
-        if (e.getSource() == buttonOne) {
 
-            if (!textFieldOne.getText().isEmpty()) {
-                cityName = textFieldOne.getText();
-                try {
 
-                    textFieldThree.setText("No zip code " + HealthCareAPI.getCoordinateTwo());
 
-                    textFieldFour.setText("Pollen count is " + HealthCareAPI.getCoordinate());
-                } catch (JSONException ex) {
-                    throw new RuntimeException(ex);
+            if (e.getSource() == buttonOne) {
+
+
+                if ((!textFieldOne.getText().isEmpty()) && (textFieldTwo.getText().isEmpty())) {
+                    cityName = textFieldOne.getText();
+
+                    try {
+                        textFieldThree.setText("No zip code " + HealthCareAPI.getCoordinateTwo());
+                    } catch (JSONException ex) {
+                        throw new RuntimeException(ex);
+                    }
+
+                    try {
+                        textFieldFour.setText("Pollen count is " + PollenAPI.getCoordinate());
+                    } catch (JSONException ex) {
+                        throw new RuntimeException(ex);
+                    }
+
                 }
 
-            }
-
-                if (!textFieldTwo.getText().isEmpty()) {
+                if ((!textFieldTwo.getText().isEmpty()) && (textFieldOne.getText().isEmpty())) {
                     zipCode = Integer.parseInt(textFieldTwo.getText());
                     try {
                         textFieldThree.setText("No city name " + HealthCareAPI.getCoordinateThree());
@@ -125,10 +208,21 @@ public class HealthCareJFrame implements ActionListener {
                 }
 
 
-            }
+            } else {
+
+                String string = e.getActionCommand();
+
+                textFieldOne.setText(string);
+
         }
 
 
+        }
     }
+
+
+
+
+
 
 
