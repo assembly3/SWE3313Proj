@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="600.0" prefWidth="850.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="HCPController">
+   <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </padding>
+   <TextArea fx:id="textAreaOne" prefHeight="75.0" prefWidth="810.0" />
+   <TextArea fx:id="textAreaTwo" prefHeight="200.0" prefWidth="200.0" />
+
+   <Label fx:id="welcomeText" prefHeight="50.0" prefWidth="735.0" text="The contained data should be verified, prior to being collected. Please wait for the synced COVID -19 vaccine data (about 30 seconds)." />
+   <Button fx:id="button" onAction="#onHelloButtonClick" text="Vaccine Count (2 Weeks)" />
+   <Button fx:id="buttonTwo" mnemonicParsing="false" onAction="#onHelloButtonClick2" text="COVID - 19 Vaccine Count" />
+</VBox>
