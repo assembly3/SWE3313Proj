@@ -37,12 +37,46 @@
       <version>${junit.version}</version>
       <scope>test</scope>
     </dependency>
+
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-engine</artifactId>
+      <version>${junit.version}</version>
+      <scope>test</scope>
+    </dependency>
+
+    <dependency>
+    <groupId>org.example</groupId>
+    <artifactId>Maven_Project</artifactId>
+    <version>1.0-SNAPSHOT</version>
+      <scope>system</scope>
+
+  </dependency>
     <dependency>
       <groupId>org.example</groupId>
       <artifactId>Maven_Project</artifactId>
       <version>1.0-SNAPSHOT</version>
-
+      <scope>runtime</scope>
     </dependency>
+    <dependency>
+      <groupId>org.example</groupId>
+      <artifactId>Maven_Project</artifactId>
+      <version>1.0-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+      <dependency>
+          <groupId>org.example</groupId>
+          <artifactId>Maven_Project</artifactId>
+          <version>1.0-SNAPSHOT</version>
+          <scope>compile</scope>
+      </dependency>
+    <dependency>
+      <groupId>org.example</groupId>
+      <artifactId>Maven_Project</artifactId>
+      <version>1.0-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+
 
   </dependencies>
   <build>
@@ -65,7 +99,7 @@
             <!-- Default configuration for running with: mvn clean javafx:run -->
             <id>default-cli</id>
             <configuration>
-              <mainClass>com.example.javafx_project/com.example.javafx_project.HelloApplication</mainClass>
+              <mainClass>com.example.javafx_project/com.example.javafx_project.Main</mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>
               <jlinkImageName>app</jlinkImageName>
@@ -76,6 +110,22 @@
           </execution>
         </executions>
       </plugin>
-    </plugins>
-  </build>
+
+
+
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-jar-plugin</artifactId>
+          <configuration>
+            <archive>
+              <manifest>
+                <addClasspath>true</addClasspath>
+                <mainClass>com.example.javafx_project.MainApp</mainClass>
+              </manifest>
+            </archive>
+          </configuration>
+        </plugin>
+      </plugins>
+    </build>
+
 </project>

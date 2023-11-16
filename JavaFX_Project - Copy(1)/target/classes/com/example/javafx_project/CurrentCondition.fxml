@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="500.0" prefWidth="767.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafx_project.CurrentCondition">
+   <children>
+      <LineChart fx:id="lineChart" layoutX="225.0" layoutY="240.0" prefHeight="185.0" prefWidth="500.0">
+        <xAxis>
+          <CategoryAxis label="Day of Week" side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" />
+        </yAxis>
+      </LineChart>
+       
+      <TextField layoutX="576.0" layoutY="425.0" />
+      <Text layoutX="266.0" layoutY="165.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Weekly Forecast for Selected City" />
+      <Text layoutX="220.0" layoutY="445.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Distance to Selected City, from New York City, New York." wrappingWidth="477.0234375" />
+      <TextField layoutX="560.0" layoutY="75.0" text="Rain" />
+      <TextField layoutX="560.0" layoutY="116.0" text="Clouds" />
+      <TextField fx:id="windVar" layoutX="560.0" layoutY="157.0" text="Wind" />
+      <Button fx:id="button" layoutX="205.0" layoutY="91.0" mnemonicParsing="false" onAction="#onButtonClick" text="Button" />
+
+   </children>
+</AnchorPane>

@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.geometry.Insets?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.layout.VBox?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
 
-<?import javafx.scene.control.Button?>
-<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
-      fx:controller="com.example.javafx_project.HelloController">
+<VBox alignment="CENTER" prefHeight="820.0" prefWidth="850.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafx_project.HelloApplication">
   <padding>
-    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
   </padding>
-
-  <Label fx:id="welcomeText"/>
-  <Button text="Hello!" onAction="#onHelloButtonClick"/>
+   <Label fx:id="welcomeText" prefHeight="25.0" prefWidth="75.0" text="Enter ZIP: " translateX="-375.0" translateY="-175.0" VBox.vgrow="NEVER" />
+   <Label prefHeight="17.0" prefWidth="100.0" text="Destination ZIP: " textFill="RED" translateX="-360.0" translateY="-150.0" />
+   <Button fx:id="Button1" mnemonicParsing="false" onAction="#onButtonClick" prefHeight="25.0" prefWidth="100.0" text="Button" translateX="-275.0" translateY="-255.0" />
+  <Button fx:id="Button2" onAction="#onButtonClick2" prefHeight="25.0" prefWidth="100.0" text="Button 2" translateX="-240.0" translateY="-235.0" />
+   <TableView prefHeight="255.0" prefWidth="840.0" translateY="50.0">
+     <columns>
+       <TableColumn prefWidth="75.0" text="Snow" />
+       <TableColumn prefWidth="75.0" text="Rain">
+            <columns>
+               <TableColumn prefWidth="75.0" text="In Milliliters" />
+            </columns>
+         </TableColumn>
+         <TableColumn prefWidth="75.0" text="Column X" />
+         <TableColumn prefWidth="75.0" text="Column X" />
+         <TableColumn prefWidth="75.0" text="Column X" />
+         <TableColumn prefWidth="75.0" text="Column X" />
+         <TableColumn prefWidth="75.0" text="Sleet">
+            <columns>
+               <TableColumn prefWidth="75.0" text="In Milliliters" />
+            </columns>
+         </TableColumn>
+         <TableColumn prefWidth="75.0" text="Column X" />
+         <TableColumn prefWidth="75.0" text="Column X" />
+         <TableColumn prefWidth="75.0" text="Column X" />
+         <TableColumn prefWidth="75.0" />
+     </columns>
+   </TableView>
+   
 </VBox>

@@ -20,3 +20,5 @@ APIs and Scenebuilder implemented.
 // Selected panels are updated in the Java_Project_3.jar file, added to the repository directory.
 
 // Command line interface of application login authentication implemented, with the use of C# class file, containing methods pertaining to requirement specifications.
+
+The remaining API module tasks within the graphical user interfaces of JavaFX_Project_2.exe, will be implemented.
