@@ -29,6 +29,7 @@ public class jsonParser {
             GeocodeData data = fromJson(geo.getGeoCodeJSON(), GeocodeData.class);
             getCurWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
         }
+        return null;
     }
 
     public <T> WeatherData getForeWeatherData(InputAcceptor input){
@@ -49,5 +50,6 @@ public class jsonParser {
             GeocodeData data = fromJson(geo.getGeoCodeJSON(), GeocodeData.class);
             getForeWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
         }
+        return null;
     }
 }
