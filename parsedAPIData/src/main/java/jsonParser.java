@@ -11,7 +11,7 @@ public class jsonParser {
         return gson.fromJson(json, classOfT);
     }
 
-    public <T> WeatherData getWeatherData(InputAcceptor input){
+    public <T> WeatherData getCurWeatherData(InputAcceptor input){
         //Based on the data in the 'input' object, construct API request
         if(input.getLat() != 0.0 && input.getLon() != 0.0){
             currentWeatherAPI curWeather = new currentWeatherAPI(input.getLat(), input.getLon());
@@ -19,15 +19,35 @@ public class jsonParser {
         }else if(input.getCityName() != null && input.getStateCode() != null && input.getCountryCode() != null){
             geocodeAPI geo = new geocodeAPI(input.getCityName(), input.getStateCode(), input.getCountryCode());
             GeocodeData data = fromJson(geo.getGeoCodeJSON(), GeocodeData.class);
-            getWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
+            getCurWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
         }else if(input.getCityName() != null && input.getCountryCode() != null){
             geocodeAPI geo = new geocodeAPI(input.getCityName(), input.getCountryCode());
             GeocodeData data = fromJson(geo.getGeoCodeJSON(), GeocodeData.class);
-            getWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
+            getCurWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
         }else if(input.getZipCode() != 0 && input.getCountryCode() != null){
             geocodeAPI geo = new geocodeAPI(input.getZipCode(), input.getCountryCode());
             GeocodeData data = fromJson(geo.getGeoCodeJSON(), GeocodeData.class);
-            getWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
+            getCurWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
+        }
+    }
+
+    public <T> WeatherData getForeWeatherData(InputAcceptor input){
+        //Based on the data in the 'input' object, construct API request
+        if(input.getLat() != 0.0 && input.getLon() != 0.0){
+            forecastWeatherAPI foreWeather = new forecastWeatherAPI(input.getLat(), input.getLon());
+            return fromJson(foreWeather.getForeWeatherJSON(), WeatherData.class);
+        }else if(input.getCityName() != null && input.getStateCode() != null && input.getCountryCode() != null){
+            geocodeAPI geo = new geocodeAPI(input.getCityName(), input.getStateCode(), input.getCountryCode());
+            GeocodeData data = fromJson(geo.getGeoCodeJSON(), GeocodeData.class);
+            getForeWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
+        }else if(input.getCityName() != null && input.getCountryCode() != null){
+            geocodeAPI geo = new geocodeAPI(input.getCityName(), input.getCountryCode());
+            GeocodeData data = fromJson(geo.getGeoCodeJSON(), GeocodeData.class);
+            getForeWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
+        }else if(input.getZipCode() != 0 && input.getCountryCode() != null){
+            geocodeAPI geo = new geocodeAPI(input.getZipCode(), input.getCountryCode());
+            GeocodeData data = fromJson(geo.getGeoCodeJSON(), GeocodeData.class);
+            getForeWeatherData(new InputAcceptor(data.getLat(), data.getLon()));
         }
     }
 }

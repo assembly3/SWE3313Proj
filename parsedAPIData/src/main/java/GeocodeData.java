@@ -1,11 +1,9 @@
 import java.util.Map;
 class LocalNames{
     private Map<String, String> localNames;
-
     public Map<String, String> getLocalNames(){
         return localNames;
     }
-
 }
 public class GeocodeData {
     private String name;
