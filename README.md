@@ -21,4 +21,4 @@ APIs and Scenebuilder implemented.
 
 // Command line interface of application login authentication implemented, with the use of C# class file, containing methods pertaining to requirement specifications. (Download to Windows C: Drive)
 
-Specified module tasks within the graphical user interfaces of JavaFX_Project_2.exe, will be implemented.
+Specified module tasks within the graphical user interfaces of JavaFX_Project_2.exe, have been implemented.
